@@ -1,0 +1,1 @@
+# japanase_word_translate_support
