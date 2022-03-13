@@ -1,1 +1,1 @@
-# japanase_word_translate_support
+docker comper laravel nginx mysql with npm
